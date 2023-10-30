@@ -2,10 +2,10 @@
 
 # Gestion de projet Agile
 
-# 📺 Présentation
+## 📺 Présentation
 
 
-# Liens : 
+## Liens : 
 
 
 [Les outils de l'agiliste](https://docs.google.com/presentation/d/19EhSlJnlZNnbRZI-skisdKIz80fnPOI-_pCF-gE6R2o/edit#slide=id.p1)
